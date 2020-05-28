@@ -18,8 +18,8 @@
  fill(#0D0000);
  ellipse(235,230,10,10);
  ellipse(265,230,10,10);
- triangle(13,100,30,40,20,13);
- fill(#F06161);
+ triangle(200,100,300,100,250,50);
+ fill(#F1F536);
  ellipse(240,250,20,20);
 //    The first 2 numbers specify where to draw it. They are the x and y co-ordinates of the center of the ellipse.
 //    The third and fourth numbers are the size of the ellipse.
@@ -28,7 +28,8 @@
 
 // 4. Now add a rect command to draw a rectangle.
 
-//    The rect command looks like this:       
+//    The rect command looks like this:  
+fill(#E16CE8);
 rect(200,100, 100,100);
 
 //    Like the ellipse, the fist 2 numbers specify where to draw it, the other two are its size.
@@ -45,7 +46,7 @@ rect(200,100, 100,100);
 
 //    Paste the code for your selected color between the parentheses.
 //    It should now look something like this (the code will be different):   
-fill(#FFA850);
+fill(#E16CE8);
 
 // 6. The next shape you draw will be in the color you selected. 
 //    NOTE: You have to put the fill command with the color you want, 
