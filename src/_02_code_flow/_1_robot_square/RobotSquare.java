@@ -19,7 +19,7 @@ public class RobotSquare {
 		//        Use the     rob.penDown();   command.
 
         // SPEED. Make the robot move quickly.
-		//        Use the     rob.setSpeed();   command.
+		//        Use the     rob.setSpeed();   command. 
 
 
         // DRAW.  Draw a line
